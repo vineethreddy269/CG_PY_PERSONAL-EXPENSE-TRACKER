@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+
+# Local expense records and generated reports may contain private financial data.
+/data/expenses.json
+/data/expenses.json.*
+/exports/*.csv
